@@ -1,0 +1,6 @@
+// Make GET request to the API
+GET http://localhost:8080
+    /scraping.api
+    /scrape
+    ?domain=github.com
+Accept: application/json
