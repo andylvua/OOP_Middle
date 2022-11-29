@@ -33,6 +33,8 @@ curl https://middle-scraping-api.herokuapp.com/scraping.api/scrape?domain={{doma
 
 or, if you prefer to use a UI, go to [middle-scraping-api.herokuapp.com](https://middle-scraping-api.herokuapp.com/).
 
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/93153950/204438432-dd17181a-9c77-4078-bc44-c5f7c0b25f93.png">
+
 Here, you can enter the domain name and click the submit button to get the information about the company.
 
 ### Build locally
@@ -60,17 +62,10 @@ You can find examples of the API usage in the `examples` directory.
 
 Let's send test request to the API:
 
+<img width="453" alt="image" src="https://user-images.githubusercontent.com/93153950/204438306-b42ce1fe-067a-4f3d-b08b-6c64ffb851a8.png">
 
 Example response:
 
-```json
-{
-  "name": "GitHub",
-  "twitter": "https://twitter.com/github",
-  "facebook": "https://www.facebook.com/GitHub",
-  "logo": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
-  "icon": "https://github.githubassets.com/favicons/favicon.svg",
-  "employees": "1,000+",
-  "address": "88 Colin P Kelly Jr St, San Francisco, CA 94107, USA"
-}
-```
+<img width="1395" alt="image" src="https://user-images.githubusercontent.com/93153950/204438329-6747da19-eac0-4c54-b709-76996ebc8d74.png">
+
+
