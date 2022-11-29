@@ -1,5 +1,14 @@
-// Make GET request to the API
+###
+// Make GET request to the API locally
 GET http://localhost:8080
+    /scraping.api
+    /scrape
+    ?domain=github.com
+Accept: application/json
+
+###
+// Using Heroku
+GET https://middle-scraping-api.herokuapp.com
     /scraping.api
     /scrape
     ?domain=github.com
