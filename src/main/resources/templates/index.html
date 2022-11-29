@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="HTML5">
+
+<head>
+    <link rel="stylesheet" th:href="@{/stylesheet.css}">
+    <title>Middle</title>
+    <script src="https://kit.fontawesome.com/36af0cf4b0.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+<div class="container">
+
+    <div class="flex-spacer"></div>
+
+    <form action="/scraping.api/scrape" method="get">
+        <div class="style-input">
+            <input required
+                   title="Please, enter a domain" name="domain" class="input"
+                   placeholder="Enter company domain"/>
+            <button type="submit"><i class="fas fa-arrow-right"></i></button>
+            <input type="submit" style="display:none"/>
+        </div>
+    </form>
+
+    <div class="flex-spacer"></div>
+
+    <a class="demo" href="https://github.com/andylvua/OOP_Middle" title="GitHub">GitHub</a>
+
+</div>
+
+</body>
+</html>
