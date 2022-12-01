@@ -28,7 +28,7 @@ Diagram of the project structure, use case diagram, and description of the used 
 
 ### General usage
 
-The API is available at [middle-scraping-api.herokuapp.com](https://middle-scraping-api.herokuapp.com).
+The API is available at [middle-scraping-api.herokuapp.com](https://middle-scraping-api.herokuapp.com)
 
 To get information about a company, send a GET request to the `scraping.api/scrape` endpoint with the `domain` parameter:
 
@@ -36,7 +36,7 @@ To get information about a company, send a GET request to the `scraping.api/scra
 curl https://middle-scraping-api.herokuapp.com/scraping.api/scrape?domain={{domain}}
 ```
 
-or, if you prefer to use a UI, go to [middle-scraping-api.herokuapp.com](https://middle-scraping-api.herokuapp.com/).
+or, if you prefer to use a UI, go to [middle-scraping-api.herokuapp.com](https://middle-scraping-api.herokuapp.com/)
 
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/93153950/204440583-3ea125da-371f-4fb3-867b-d268c0b32f28.png">
 
