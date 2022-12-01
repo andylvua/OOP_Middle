@@ -1,7 +1,7 @@
 # Middle. Java web scraping API
 
 [![Java CI with Maven](https://github.com/andylvua/OOP_Middle/actions/workflows/maven.yml/badge.svg)](https://github.com/andylvua/OOP_Middle/actions/workflows/maven.yml)
-> Team members: Andrii Yaroshevych, Pavlo Kryven
+> Team members: Andrii Yaroshevych, Pavlo Kryven, Nazar Demchuk, Tymur Krasnianskyi
 
 ## Task
 
@@ -72,3 +72,9 @@ Let's send test request to the API:
 Example response:
 
 <img width="1395" alt="image" src="https://user-images.githubusercontent.com/93153950/204438329-6747da19-eac0-4c54-b709-76996ebc8d74.png">
+
+## License
+
+The [MIT](https://choosealicense.com/licenses/mit/) License (MIT)
+
+Copyright © 2022. Andrii Yaroshevych, Pavlo Kryven, Nazar Demchuk, Tymur Krasnianskyi
