@@ -18,7 +18,11 @@ should support the following information:
 
 ## Solution
 
-We have developed a simple web scraping API based on [Spring Boot](https://spring.io/projects/spring-boot) and [Jsoup](https://jsoup.org/).
+We have developed a simple web scraping API based on [Spring Boot](https://spring.io/projects/spring-boot) and [Jsoup](https://jsoup.org/)
+
+### Diagrams and used patterns
+
+Diagram of the project structure, use case diagram, and description of the used patterns are available in the [tasks](tasks) folder.
 
 ## Usage
 
